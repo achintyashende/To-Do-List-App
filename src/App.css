@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.completed {
+    text-decoration: line-through;
+    color: rgb(83, 227, 78); /* Ensure the text remains white */
+}
